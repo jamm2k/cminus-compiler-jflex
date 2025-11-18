@@ -1,0 +1,35 @@
+# Compiled class files
+*.class
+
+# Output / build directory
+/bin/
+/out/
+
+# Generated lexer and parser files (JFlex/CUP)
+src/lexer/Lexer.java
+src/lexer/*.java~
+src/parser/*.java~
+src/parser/*Parser.java
+src/parser/*Lexer.java
+
+# JFlex backup file
+*.backup
+
+# Temporary files
+*.log
+*.tmp
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDEs
+# IntelliJ
+.idea/
+*.iml
+# VSCode
+.vscode/
+# Eclipse
+.project
+.classpath
+.settings/
