@@ -9,7 +9,6 @@
 src/lexer/Lexer.java
 src/lexer/*.java~
 src/parser/*.java~
-src/parser/*Parser.java
 src/parser/*Lexer.java
 
 # JFlex backup file
