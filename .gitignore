@@ -32,3 +32,6 @@ Thumbs.db
 .project
 .classpath
 .settings/
+
+#Codigos compilados
+*.ic
